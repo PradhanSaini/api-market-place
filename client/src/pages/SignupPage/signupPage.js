@@ -34,7 +34,7 @@ function SignupPage() {
         
     }
     catch(err){
-      console.log;
+      console.log();
     }
     
   }
