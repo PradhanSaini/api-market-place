@@ -1,0 +1,135 @@
+.box {
+    width: 100;
+    background: rgba(45, 81, 153, 0.5);
+  }
+  
+  .box1 {
+    float: left;
+    position: absolute;
+    width: 557px;
+    height: 550px;
+    left: 100px;
+    top: 188px;
+    border:solid 2px rgb(207, 255, 225);
+    background-color: aliceblue;
+    border-radius: 15px;
+  }
+  
+  .box2 {
+    float: right;
+    position: absolute;
+    width: 430px;
+    height: 456px;
+    left: 874px;
+    top: 210px;
+  
+    background: #ffffff;
+    border: 2px solid #a8a8a8;
+    box-sizing: border-box;
+    border-radius: 10px;
+    // border:none
+  }
+  
+  .image12 {
+    position: absolute;
+    width: 400px;
+    height: 315px;
+    left: 80px;
+    top: 200px;
+  }
+  
+  .h2text{
+  position: absolute;
+  width: 326px;
+  height: 124px;
+  left: 122px;
+  top: 15px;
+  
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 62px;
+  letter-spacing: -0.02em;
+  
+  /* primary text */
+  
+  color: #1E272E;
+  }
+  
+  .h4text{
+      position: absolute;
+      width: 319px;
+  height: 36px;
+  left: 122px;
+  top: 150px;
+  font-size: 45px;
+  
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: -0.02em;
+  
+  /* secondary text */
+  
+  color: #566474;
+  }
+
+  .linker{
+    background-color: red;
+    width: 30 px;
+    height: 30px;
+    cursor: pointer;
+  }
+
+  .imgdiv{
+    height: 356px;
+    // border:none
+    width: 429px;
+    border-radius:10px;
+    // background-color: red;
+
+  }
+
+  .pradhan{
+    width: 150px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-left: 260px;
+    top:10px;
+    cursor: pointer;
+  }
+
+  .yourbtn {
+    position: relative;
+    top: 52px;
+    font-family: calibri;
+    width: 200px;
+    padding: 10px;
+    // -webkit-border-radius: 5px;
+    // -moz-border-radius: 5px;
+    // border: 1px dashed #BBB;
+    text-align: center;
+    background-color: #1c87c9;
+    cursor: pointer;
+    margin-right:208px;
+    display: inline-block;
+    color:white;
+    font-weight: 700;
+    height: 42px;
+    border-radius: 5px;
+  }
+
+  // .imginput{
+  //   height: 407px;
+  //   // border:none
+  //   width: 429px;
+  //   border-radius:10px;
+  // }
+
+  .imgg{
+    max-width: 429px;
+    max-height: 356px;
+  }
